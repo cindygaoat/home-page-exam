@@ -1,0 +1,30 @@
+* {
+	font-family: "Nunito Sans", sans-serif !important; 
+}
+
+.nav-item{
+	font-weight: 500 !important; 
+	font-style: normal !important;
+}
+
+.header{
+	font-weight: 900 !important;
+	font-style: normal !important;
+}
+
+h5 {
+	font-weight: 800 !important;
+	font-style: normal !important;
+}
+
+.bg-landing {
+	background: url(./images/bg.png);
+	background-size: cover;
+	background-repeat: no-repeat;
+/*	color: #ffffff;*/
+}
+
+footer {
+	text-align: center;
+	color: #FFFFFF;
+}
